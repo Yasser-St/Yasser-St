@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasser-St self-taught devoloper.
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning html Javascript.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on different projects and learn as I code.
 - 📫 How to reach me ...
 
